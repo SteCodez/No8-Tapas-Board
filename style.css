@@ -1,0 +1,734 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
+/** Cross board styles**/
+
+
+
+
+h2 {
+    background-color: #000000;
+    color: #fafafa;
+    font-size: 40px;
+    font-family: Oswald, sans-serif;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 1px;
+    width: auto;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 7px 10px 50px #ff0000;
+    padding: 15px;
+}
+
+h3 {
+    font-size: 35px;
+    font-family: Lato, sans-serif;
+}
+
+h4 {
+    font-family: Oswald, sans-serif;
+    font-size: 35px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-family: oswald, sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.back-black {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #000000;
+    overflow-x: hidden;
+    height: 100%;
+    background-size: contain;
+}
+
+.container {
+    display: grid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 95%;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    font-family: oswald, sans-serif;
+}
+
+.button-1 {
+    height: 38px;
+    background-color: #ff0000;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: #fafafa 3px solid;
+    color: #000000;
+    font-weight: bold;
+}
+
+/********************************************************************** header**/
+
+#head-tag {
+    font-size: 50px;
+}
+
+header {
+    background: #000000;
+    color: #fafafa;
+    border-bottom: #ff0000 5px solid;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    min-height: 70px;
+    font-size: 30px;
+}
+
+header li {
+    float: left;
+    display: inline;
+    padding-top: 0;
+    padding-right: 20px;
+    padding-bottom: 2px;
+    padding-left: 20px;
+}
+
+header a {
+    text-decoration: none;
+    color: #f0dbdb;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: inherit;
+}
+
+header #branding {
+    float: left;
+    font-size: 50px;
+}
+
+header #branding h1 {
+    margin: 0 auto;
+}
+
+header nav {
+    float: right;
+    margin-top: 10px;
+}
+
+.text-coloring {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.text-coloring2 {
+    color: #eeff00;
+}
+
+header a:hover {
+    color: #ff0000;
+}
+
+
+
+/************************************************************************* under bar**/
+
+#under-bar {
+    padding-left: 20px;
+    letter-spacing: 1px;
+}
+
+/******************************************************************** circle container images on menu**/
+
+
+.circle-cover-bg2 {
+    width: 100%;
+    margin: 5%;
+    height: 500px;
+    background: url(./images/gallery-pic7.webp) no-repeat;
+    background-size: cover;
+    border-width: 2px;
+    border-top: #ff0000 solid 3px;
+    background-color: #000000;
+    padding-bottom: 100px;
+    float: left;
+    padding-bottom: 100px;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: -10px 15px 20px #ff0000;
+}
+
+.circle-cover-bg3 {
+    width: 100%;
+    margin: 5%;
+    height: 500px;
+    background: url(./images/happy-worker.webp) no-repeat center center;
+    background-size: cover;
+    border-width: 2px;
+    border-top: #ff0000 solid 3px;
+    background-color: #000000;
+    padding-bottom: 100px;
+    float: right;
+    padding-bottom: 100px;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 10px 15px 20px #ff0000;
+}
+
+.circle-cover-bg4 {
+    width: 100%;
+    margin: 5%;
+    height: 500px;
+    background: url(./images/whiskey-bottle.webp) no-repeat;
+    background-size: cover;
+    border-width: 2px;
+    border-top: #ff0000 solid 3px;
+    background-color: #000000;
+    padding-bottom: 100px;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: -10px 15px 20px #ff0000;
+}
+
+.circle-cover-bg5 {
+    width: 100%;
+    margin: 5%;
+    height: 500px;
+    background: url(./images/bar-ohoto.jpeg) no-repeat;
+    background-size: cover;
+    border-width: 2px;
+    border-top: #ff0000 solid 3px;
+    background-color: #000000;
+    padding-bottom: 100px;
+    float: right;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 10px 15px 12px #ff0000;
+}
+
+
+/************************************************************************* Showcase photos**/
+
+#showcase {
+    min-height: 700px;
+    background: url(./images/cocktail-back.jpeg);
+    background-size: cover;
+    min-width: 100%;
+    overflow: hidden;
+    color: #fafafa;
+    text-align: center;
+    border-bottom: #ff0000 solid 3px;
+    border-top: #ff0000 solid 3px;
+    /* animates zoom effect on loading page */
+    animation-name: showcase-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+#showcase2 {
+    min-height: 700px;
+    background: url(./images/cocktail-neon.webp);
+    background-size: cover;
+    min-width: 100%;
+    overflow: hidden;
+    color: #fafafa;
+    text-align: center;
+    border-bottom: #ff0000 solid 3px;
+    border-top: #ff0000 solid 3px;
+    background-color: #000000;
+    /*********************************************** animates zoom effect on page */
+    animation-name: showcase-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+#showcase3 {
+    padding-top: 250px;
+
+    height: 300px;
+    background: url(./images/open!.webp) center center;
+    background-size: cover;
+    max-width: 100%;
+    overflow: hidden;
+    color: #fafafa;
+    text-align: center;
+    border-bottom: #ff0000 solid 3px;
+    border-top: #ff0000 solid 3px;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 7px 12px 100px #ff0000;
+
+}
+
+#showcase4 {
+    height: 700px;
+    background: url(./images/clock-tavern.jpg) no-repeat center center;
+    background-size: cover;
+    max-width: 100%;
+    overflow: hidden;
+    color: #fafafa;
+    text-align: center;
+    border-bottom: #ff0000 solid 3px;
+    border-top: #ff0000 solid 3px;
+    /*********************************************** animates zoom effect on  page */
+    animation-name: showcase-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/********************************************* creates the level of zoom for the hero image */
+
+@keyframes showcase-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+
+}
+
+/******************************************************************** contact form for menu**/
+
+.menu-drop form {
+    float: right;
+    margin-top: 15px;
+}
+
+.menu-drop input[type="email"] {
+    padding: 4px;
+    height: 25px;
+    width: 250px;
+}
+
+/************************************************************* gap between header and menu**/
+
+#gap-bar {
+    padding-top: 1px;
+    color: #fafafa;
+    background-color: #000000;
+    border-top: #ff0000 3px solid;
+
+}
+
+/************************************************************** Pictures for cocktail menu**/
+
+.cocktail-box {
+    text-align: center;
+    background-color: #000000;
+    background-size: cover;
+    border-bottom: #ff0000 3px solid;
+    color: #fafafa;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding: 15px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 7px 12px 50px #ff0000;
+}
+
+/************************************************************************* logo under footer**********/
+#logo-bottom {
+    background: url(./images/logo-clear.png) no-repeat center center;
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+    padding-top: 500px;
+    background-color: #000000;
+    margin: auto;
+    border-top: #ff0000 solid 3px;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 7px 12px 100px #ff0000;
+}
+
+/************************************************************************ boxes **/
+
+#info-boxes {
+    width: 100%;
+    margin-top: 20px;
+    font-family: oswald, sans-serif;
+    font-size: 30px;
+    margin: auto;
+}
+
+.box {
+    float: left;
+    padding: 10px;
+    text-align: center;
+}
+
+#box-top {
+    background: url(./images/mixology-back.jpeg)no-repeat center center;
+    float: right;
+    height: 700px;
+    background-size: cover;
+    border-bottom: #ff0000 3px solid;
+    color: #fafafa;
+    overflow: auto;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 7px 12px 100px #ff0000;
+}
+
+#box-middle {
+    background: url(./images/food-back.webp) no-repeat;
+    float: right;
+    background-size: cover;
+    height: 1000px;
+    border-bottom: #ff0000 3px solid;
+    color: #fafafa;
+    border-radius: 20%;
+    overflow: auto;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 7px 12px 100px #ff0000;
+}
+
+#box-bottom {
+    background: url(./images/pixel-back.webp);
+    float: right;
+    height: 1000px;
+    background-size: cover;
+    color: #fafafa;
+    padding-top: 50px;
+    font-size: 50px;
+    border-radius: 20%;
+    overflow: auto;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 7px 12px 100px #ff0000;
+}
+
+.script-color {
+    color: #ff0000;
+}
+
+.boxes p {
+    font-size: 25px;
+    padding: 20px;
+}
+
+/****************************************************************************************code from old menu*/
+
+
+.boxes p {
+    text-decoration: solid;
+    color: #fafafa;
+    padding-top: 10px;
+}
+
+.box img {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.box h1 {
+    font-family: Oswald, sans-serif;
+    letter-spacing: 2px;
+    font-size: 50px;
+}
+
+.box-left {
+    float: left;
+}
+
+/******************************************************************** footer */
+footer {
+    width: auto;
+    padding: 20px;
+    color: #fafafa;
+    background-color: #000000;
+    text-align: center;
+    border-top: #ff0000 solid 3px;
+    border-bottom: #ff0000 solid 3px;
+    align-items: center;
+    background: url(./images/background-party.webp);
+    background-size: contain;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 5px 10px 15px #ff0000;
+}
+
+#top-social {
+    width: auto;
+    padding: 20px;
+    color: #fafafa;
+    background-color: #000000;
+    text-align: center;
+    border-top: #ff0000 solid 3px;
+    border-bottom: #ff0000 solid 3px;
+    align-items: center;
+    background: url(./images/background-party.webp);
+    background-size: contain;
+    border-radius: 10%;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 7px 14px 100px #ff0000;
+}
+
+.inner {
+    color: white;
+}
+
+.social {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 15px;
+    border-radius: 6px;
+    position: relative;
+    overflow: hidden;
+}
+
+.social a {
+    font-size: 75px;
+    color: #F4FFFE;
+    border-style: groove;
+    border-color: #ff0000;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+    display: inline-block
+}
+
+/* Hover command taken from @codingcommanders.com*/
+.social a:hover {
+    background-color: #ff0000;
+    color: #fafafa;
+    -webkit-transition: background-color 0.6s ease-out, color 0.6s ease-out;
+    -moz-transition: background-color 0.6s ease-out, color 0.6s ease-out;
+    -o-transition: background-color 0.6s ease-out, color 0.6s ease-out;
+    transition: background-color 0.6s ease-out, color 0.6s ease-out;
+}
+
+/******************************************************************************** Booking form****/
+
+#booking-form {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    letter-spacing: 1px;
+    background-color: #000000;
+    margin: auto 0;
+    box-shadow: 10px 15px 20px rgba(255, 0, 0, 0.1);
+    border-top: 3px #ff0000 solid;
+
+}
+
+#booking-bar-top {
+    background-image: url(./images/busy-bar.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 700px;
+    overflow: hidden;
+    animation-name: showcase-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+#booking-bar-top div {
+    color: #fafafa;
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+}
+
+
+/**************************************booking form menu positioning*****/
+
+.heading {
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.heading-days {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.heading-phone {
+    font-size: 20px;
+}
+
+.container-form {
+    padding: 20px 0;
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    align-items: center;
+}
+
+
+form p {
+    font-weight: 600;
+}
+
+button {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.95);
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+}
+
+button :hover {
+    -webkit-transition: background-color 0.6s ease-out, color 0.6s ease-out;
+    -moz-transition: background-color 0.6s ease-out, color 0.6s ease-out;
+    -o-transition: background-color 0.6s ease-out, color 0.6s ease-out;
+    transition: background-color 0.6s ease-out, color 0.6s ease-out;
+}
+
+/****************************************************Fix for writing not being truly visible on home page*********/
+.main-page-block {
+
+    height: fit-content;
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, 0.7);
+    overflow: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+/***********************************************************************adding map to bookings page*****/
+#map-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-bottom: #ff0000 solid 3px;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 7px 10px 100px #ff0000;
+}
+
+#booking-bar div {
+    color: #fafafa;
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+}
+
+/*******************************************************************************Gallery Pictures******/
+
+.img-gal {
+    width: auto;
+    height: auto;
+    max-width: 350px;
+    max-height: 450px;
+    margin: 4.5%;
+    padding: 14px;
+    background-size: contain;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 5px 10px 15px #ff0000;
+}
+
+.strip {
+    height: 360px;
+    width: auto;
+    max-width: 477px;
+    border-top: 5px solid #ff0000;
+    border-bottom: 5px solid #ff0000;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 5px 10px 15px #ff0000;
+}
+
+.img-full {
+    padding: 14PX;
+    width: 75%;
+    height: 400px;
+    margin: 10%;
+    margin-top: 50px;
+    background-size: contain;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 0px 0px 50px #ff0000;
+}
+
+#mill-float {
+    float: left;
+    text-align: center;
+}
+
+.branding {
+    text-align: center;
+
+}
