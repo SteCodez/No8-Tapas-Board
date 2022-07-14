@@ -40,13 +40,11 @@ Give instructions on how to collaborate with your project.
 ## User Stories
 ***
 A list of frequently asked questions
-1. **first question in bold**
-Answer to the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question, we use an unordered list:
-* First point
-* Second Point
-* Third point
+1. **As a user will it be clear to me upon entry to the website who it belonged to?**
+ As a user I could see after entering that the Website belonged to a Tapas bar in Westport
+2. __As a user will I find it easy to navigate between the pages of the website?__ 
+As a user I found it extermely simple to navigate between pages on the website using the nav buttons on the top of every page.
+
 3. **Third question in bold**
 Answer to the third question with *italic words*.
 4. **Fourth question in bold**
