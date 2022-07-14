@@ -12,9 +12,39 @@
 
 Currently in a phase of expansion, No8 has also secured a secondary location that will be  developed into a bar with the sole purpose of being westports number 1 destination for cocktails. Although that is a reputation that No 8 already holds, opening a second premises in a small town with fierce competition is very risky for a small business owner. Therefore the secondary function of this site is to build brand awareness by including information on the other funtions of No8, for example food and wine, links to social media, pictures of our product and the number 8 name and logo present on every page.
 
+## User Stories
+***
+A list of frequently asked questions
+1. **As a user will it be clear to me upon entry to the website who it belonged to?**
+ As a user I could see after entering that the Website belonged to a Tapas bar in Westport
+2. **As a user will I find it easy to navigate between the pages of the website?**
+As a user I found it extermely simple to navigate between pages on the website using the nav buttons on the top of every page.
+4. **As a user who is planning a holiday to Ireland will it be clear to me the exact location of No8 in both a local and national sense?**
+As a user it was immediately apparent that No8 was based in Westport, Co Mayo and also that it was located along the Wild Atlantic Way. 
+5. **As a user who who not like drinking cocktails will I have a clear understanding of what else No8 offers?**
+As a user I found the information boxes very helpfull in understanding that not only does No8 offer cocktails but has a vast selection of wines, beers and spirits as well.
+6. **As a user who is looking for a food menu, will there be a clear path for me to get a food menu if there is not one already on the website**
+As a user I found it acceptable that the food menu changes daily and that I can have an up to date menu sent fortwith increasing my user experience and ensuring I have the most recent additions to decide from 
+7. **As a user will I find the site aesthetically pleasing upon entry?**
+As a user I found the consistent theme throughout very pleasing to the eye and enjoyed the experience of navigating through the pages.
+8. **As a user who is looking to access No8's social media sites will there be a clear path for me to these links?**
+As a user I found it very easy to access No's social media as there were link bars placed under the initial picture on every page as well as in the footer. Also there were reminders of No8's social media throughout the website
+9. **As a user who is looking to find out about the cocktails of No8 will it be easy for my to access the information I need, will there be a clear path and will the information be easily readable?**
+As a user after reading the information box on the home page, I followed the button to the cocktail page where all the information I was seeking was layed out clearly.
+10. **Third question in bold**
+Answer to the third question with.
+3. **Third question in bold**
+Answer to the third question with.
+3. **Third question in bold**
+Answer to the third question with.
+3. **Third question in bold**
+Answer to the third question with.
+3. **Third question in bold**
+Answer to the third question with.
+3. **Third question in bold**
+Answer to the third question with.
+4. **Fourth question in bold**
 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies
 ***
 A list of technologies used within the project:
@@ -23,13 +53,9 @@ A list of technologies used within the project:
 * [Library name](https://example.com): Version 1234
 ## Installation
 ***
+
 A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
+
 Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
 ***
@@ -37,17 +63,5 @@ Give instructions on how to collaborate with your project.
 > Maybe you want to write a quote in this part. 
 > Should it encompass several lines?
 > This is how you do it.
-## User Stories
-***
-A list of frequently asked questions
-1. **As a user will it be clear to me upon entry to the website who it belonged to?**
- As a user I could see after entering that the Website belonged to a Tapas bar in Westport
-2. __As a user will I find it easy to navigate between the pages of the website?__ 
-As a user I found it extermely simple to navigate between pages on the website using the nav buttons on the top of every page.
+>what does the future hold for your project?
 
-3. **Third question in bold**
-Answer to the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
