@@ -1,10 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
-
-/** Cross board styles**/
-
-
-
-
 h2 {
     background-color: #000000;
     color: #fafafa;
@@ -79,7 +73,6 @@ body {
     color: #000000;
     font-weight: bold;
 }
-
 /********************************************************************** header**/
 
 #head-tag {
@@ -139,16 +132,12 @@ header nav {
 header a:hover {
     color: #ff0000;
 }
-
-
-
 /************************************************************************* under bar**/
 
 #under-bar {
     padding-left: 20px;
     letter-spacing: 1px;
 }
-
 /******************************************************************** circle container images on menu**/
 
 .circle-cover-bg2 {
@@ -227,8 +216,6 @@ header a:hover {
     -o-border-radius: 50px;
     box-shadow: 10px 15px 12px #ff0000;
 }
-
-
 /************************************************************************* Showcase photos**/
 
 #showcase {
@@ -259,6 +246,7 @@ header a:hover {
     border-top: #ff0000 solid 3px;
     background-color: #000000;
     /*********************************************** animates zoom effect on page */
+    
     animation-name: showcase-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -266,7 +254,6 @@ header a:hover {
 
 #showcase3 {
     padding-top: 250px;
-
     height: 300px;
     background: url(./images/open!.webp) center center;
     background-size: cover;
@@ -296,11 +283,11 @@ header a:hover {
     border-bottom: #ff0000 solid 3px;
     border-top: #ff0000 solid 3px;
     /*********************************************** animates zoom effect on  page */
+    
     animation-name: showcase-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
-
 /********************************************* creates the level of zoom for the hero image */
 
 @keyframes showcase-zoom {
@@ -313,9 +300,7 @@ header a:hover {
     }
 
 }
-
 /******************************************************************** contact form for menu**/
-
 .menu-drop form {
     float: right;
     margin-top: 15px;
@@ -366,7 +351,6 @@ header a:hover {
     -o-border-radius: 50px;
     box-shadow: 7px 12px 100px #ff0000;
 }
-
 /************************************************************************ boxes **/
 
 #info-boxes {
@@ -441,6 +425,7 @@ header a:hover {
     padding: 20px;
 }
 /******************************************************************** footer */
+
 footer {
     width: auto;
     padding: 20px;
@@ -514,7 +499,6 @@ footer {
     -o-transition: background-color 0.6s ease-out, color 0.6s ease-out;
     transition: background-color 0.6s ease-out, color 0.6s ease-out;
 }
-
 /******************************************************************************** Booking form****/
 
 #booking-form {
@@ -551,8 +535,6 @@ footer {
     padding: 30px 0 0 10px;
     text-align: center;
 }
-
-
 /**************************************booking form menu positioning*****/
 
 .heading {
@@ -597,8 +579,8 @@ button :hover {
     -o-transition: background-color 0.6s ease-out, color 0.6s ease-out;
     transition: background-color 0.6s ease-out, color 0.6s ease-out;
 }
-
 /****************************************************Fix for writing not being truly visible on home page*********/
+
 .main-page-block {
 
     height: fit-content;
