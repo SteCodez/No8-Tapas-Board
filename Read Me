@@ -1,17 +1,16 @@
 # Project-1-CodeInstitute
 ## Table of Contents
 1. [General Info](#general-info)
-3. [Wireframes](#wireframes)
+2. [Wireframes](#wireframes)
 3. [Technologies used](#technologies)
 4. [Credits](#credits)
 5. [FAQs](#faqs)
+
 ### General Info
 ***
- The primary function of this website is to remedy that issue by designing a partener site that gives this aspect of the business its own forum that users can access for up to date information on No8's cocktails.
- No8 already has a main website, but in my opinion the site fails to address one of the biggest attractions this venue has to offer, the cocktails. Potentially missing out on massive profits, making
 
 
-## User Stories
+### User Stories
 ***
 A list of frequently asked questions
 1. **As a user will it be clear to me upon entry to whom the website belongs to?**
@@ -46,7 +45,13 @@ As a user I was happy to see all of the links worked and all of th forms submitt
 As a user I found the site to in an acceptable state.
 17. ****
 
-## Technologies
+### Layout and Design
+***
+When it came to layout and color scheme I was struggling to come up with any cool concepts to get started. I was scrolling through pexels.com searching for inspiration 
+when I came accross a picture of a Neon cocktail sign.
+![Neon sign](/images/C:\Users\Stephen\OneDrive\Desktop\No8 Tapas Board Mk 2\images\cocktail-neon.webp)
+
+### Technologies
 ***
 > HTML5 
 > CSS
@@ -55,8 +60,13 @@ As a user I found the site to in an acceptable state.
 > GitPod
 > Google
 
-## Installation
+### Installation/coding notes & Problems faced throughout
 ***
+At first the main focus of the project was to just get a viable product ready for the web. A minimal boilerplate design that could be at the very least functional. My first attempt did not go so well as I failed to account for mobile first design technique and after a couple of days when I finally used the developer tools, I was shocked when my site was mashed together horrendously. 
+The original plan was formatted similar to the Love Runnings project with a large header and 2 extra circle-cover pictures each placed aside the center picture below the showcase with some information on either side. 
+As I tried to fix it, the fact I didnt use GitHub was not commiting or saving my work meant that making big changes was sometimes leading me down rabbit holes and my site would look completely different or nothing would go where I wanted it to go and even after spending large amount of time my site would remain unfriendly towards mobiles.
+As this idea failed I decided to streamline the design and start again making it less compact and more stretched out vertically with a much more mobile friendly design that would let divs minimize while maintaining a readable standard on both the text and the images contained within the site. 
+To be completely honest I found that my code hindered me a lot in the beginning, but as my coding skills grew throughout and I finally realised how absolutely vital developer tools is, I was able to used these tools to great extent throughout the process which helped me improve my abilities and greatly increased my efficiency towards the end of the project. 
 
 
 A little intro about the installation. 
