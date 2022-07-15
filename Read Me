@@ -17,50 +17,63 @@ A list of frequently asked questions
  As a user I could see clearly after entering that the website belonged to a tapas, wine & cocktail bar in Westport.
 2. **As a user will I find it easy to navigate between the pages of the website?**
 As a user I found it extermely simple to navigate between pages on the website using the nav buttons on the top of every page.
-4. **As a user who is planning a holiday to Ireland will it be clear to me the exact location of No8 in both a local and national sense?**
+3. **As a user who is planning a holiday to Ireland will it be clear to me the exact location of No8 in both a local and national sense?**
 As a user it was immediately apparent that No8 was based in Westport, Co Mayo and also that it was located along the Wild Atlantic Way. 
-5. **As a user who who not like drinking cocktails will I have a clear understanding of what else No8 offers?**
+4. **As a user who who not like drinking cocktails will I have a clear understanding of what else No8 offers?**
 As a user I found the information boxes very helpfull in understanding that not only does No8 offer cocktails but has a vast selection of wines, beers and spirits as well.
-6. **As a user who is looking for a food menu, will there be a clear path for me to get a food menu if there is not one already on the website?**
+5. **As a user who is looking for a food menu, will there be a clear path for me to get a food menu if there is not one already on the website?**
 As a user I found it acceptable that the food menu changes daily and that I can have an up to date menu sent fortwith increasing my user experience and ensuring I have the most recent additions to decide from 
-7. **As a user will I find the site aesthetically pleasing upon entry?**
+6. **As a user will I find the site aesthetically pleasing upon entry?**
 As a user I found the consistent theme throughout very pleasing to the eye and enjoyed the experience of navigating through the pages.
-8. **As a user who is looking to access No8's social media sites will there be a clear path for me to these links?**
+7. **As a user who is looking to access No8's social media sites will there be a clear path for me to these links?**
 As a user I found it very easy to access No's social media as there were link bars placed under the initial picture on every page as well as in the footer. Also there were reminders of No8's social media throughout the website
-9. **As a user who is looking to find out about the cocktails of No8, will there be a clear path to the information I need and will it be readable?**
+8. **As a user who is looking to find out about the cocktails of No8, will there be a clear path to the information I need and will it be readable?**
 As a user who read the information box on the home page and verifying No8 does cocktails, I visited cocktail menu page where the names and contents were listed
-10. **As a user who is concerned about the quality of the product im consuming, is it obvious that the product I am consuming isnt a cheap store bought mix?**
+9. **As a user who is concerned about the quality of the product im consuming, is it obvious that the product I am consuming isnt a cheap store bought mix?**
 As a user it is hightlighted at the top of the cocktail menu that ingredients are homemade and handcrafted. Homemade products are also labelled on the menu
-11. **As a user who is planning a spur the moment type visit to No8 and is looking for opening times on the site, will it be that clear to me that seating is not guarunteed and I should book in advance to ensure a table?**
+10. **As a user who is planning a spur the moment type visit to No8 and is looking for opening times on the site, will it be that clear to me that seating is not guarunteed and I should book in advance to ensure a table?**
 As a user, when I visited the bookings page in search for the opening times, the first thing made apparent was that there was a banner instead of a large picture at the top of the bookings page, clearly stating I should book to avoid dissapointment. Which ensured I was guarunteed a meal instead of a wasted journey that evening.
-12. ** As a user who is trying to make a booking, is it obvious to me what methods I can take to make a booking?**
+11. ** As a user who is trying to make a booking, is it obvious to me what methods I can take to make a booking?**
 As a user who wants to book a table, I noticed the button for bookings at No8 almost immediately and was easily able to navigate to the contact form and succesfully make a booking.
-13. **As a user who is looking to book for a large group, will it be clear that No8 accepts large groups and if so is there a path provided to complete a booking.**
+12. **As a user who is looking to book for a large group, will it be clear that No8 accepts large groups and if so is there a path provided to complete a booking.**
 As a user booking for a large group, a notice requesting a call for larger bookings was placed on the bookings page which I found as an acceptable solution.
-14. **As a user who is in Westport but cannot find the exact location of No8 Mill St, how can I find the exact location?**
+13. **As a user who is in Westport but cannot find the exact location of No8 Mill St, how can I find the exact location?**
 As a user who was struggling to locate No8, I found a map on the booking page and was easily able to pinpoint the exact location of no 8.
-15. **As a user will I find all of the links and forms in working condition when I use the site?**
+14. **As a user will I find all of the links and forms in working condition when I use the site?**
 As a user I was happy to see all of the links worked and all of th forms submitted on request.
-16. **As a user who Is using a mobile, when i access it will the site fully functional, readable and still pleasing to the eye**
+15. **As a user who Is using a mobile, when i access it will the site fully functional, readable and still pleasing to the eye**
 As a user I found the site to in an acceptable state.
-17. **As a user who is using a mobile, will all the information stay within the boundaries of my device**
+16. **As a user who is using a mobile, will all the information stay within the boundaries of my device**
 As a user I found that it was feasible to have a scroll function implimented to accomodate users with small devices.
 
 ### Layout and Design
 ***
-When it came to layout and color scheme I was struggling to come up with any cool concepts to get started but I wanted a cool & unusual look. As I was scrolling through pexels.com searching for inspiration when I came accross a picture of this neon cocktail sign. 
-{image insert cocktail sign}
-This gave me the idea of a Cocktails meets moulin rouge, dark corners and neon lights. I felt this suited what I wanted perfectly as its a unique look that you would probably not see on the Website for an established hotel or bar in the area which would be more tradionally Irish themed buisinesses, giving an edge over the local competition by tapping into another niche market thats not catered for in Westport.
+The color pallete I went with was red, black and white.
+[colour red](https://github.com/SteCodez/No8-Tapas-Board/blob/main/scheme-red.png?raw=true)
+[color black](https://github.com/SteCodez/No8-Tapas-Board/blob/main/color-black.png?raw=true)
+[color white](https://github.com/SteCodez/No8-Tapas-Board/blob/main/color-white.png?raw=true)
+When it came to layout and colour scheme I wanted a cool & unusual look. I was scrolling through pexels.com searching for inspiration when I came accross a picture of this neon cocktail sign which gave me the idea of a Cocktails meets moulin rouge, black and neon lights.
+[Neon sign] (https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-sign.png?raw=true)
+I felt this suited the No8 after dark style I was looking for and is a unique style that you would you would not see incorporated into businesses in Westport as they tend to have a more traditional approach when it comes to design, giving us an edge over the local competition by targeting a massive gap in the market of Westport, Co Mayo.
 Once I decided to go with this style I had to find the right design elements to suit. The first thing I did was search for a neon effect in css to see if it was even possible. 
-after some research my path led me to codingcommanders.com where I found the web-kitt code to add neon effect. This effect gave me the ability to manipulate the border
-{insert image of webkit for neon design
+after some research my path led me to codingcommanders.com where I found the web-kitt code to add neon effect. This effect gave me the ability to manipulate the borders of my elements into a glowing red neon look.
+
+[Neon ouline](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-side.png?raw=true)
+
 Before implementing the changes to my website i did read that the Webkitt was to mostly be avoided in website design as it has a limited range of functionality with very few browsers using this technology.
 Taking all of this in to account I decided that for this Project I would use it anyways based on the facts the website was graded more on a good responsive mobile first design and coding layout with clear user friendly features with a consistent theme rather than the amount of viable browsers.
+I feel the website has a nice flow of pictures and text, nothing too overwhelming, as you enter you are instantly presented with the header bar consisting of the name of our establishment and our location followed by the navigation elements. One of my favourite functions of the whole site is contained within the showcase below which is the zoom function.
+I spent a some time adjusting the zoom on the home, cocktail and gallery showcase image and played with the image sizes until the red bar stopped nicely under each of the nav bars on these pages.
 
+[home header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/home-header.png?raw=true)
+[nav after zoom](https://github.com/SteCodez/No8-Tapas-Board/blob/main/navbar.png?raw=true)
+*User story 1
+*User story 2
+*User story 3
 
-
-
-
+Due to the way we are currently working our menu is on a chalkboard which is updated regularly. A common trend I have noticed while working there is customers who have visited the home site for No8 asking for items that are no longer served there. Sometimes this happens with multiple different requests on the same table, this in turn can lead to a very frustrating dining experience and often leads to frustrated guests. 
+To counter this issue I have added a menu request form on the home page with a notcie alerting cutsomers to reglular changes. Originally I actually had this funtion across all pages but felt it was overkill considering I already had multiple social media links and pictures around.
+[menu request](https://github.com/SteCodez/No8-Tapas-Board/blob/main/menudrop.png?raw=true)
 
 ### Technologies
 ***
