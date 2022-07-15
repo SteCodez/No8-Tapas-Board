@@ -58,7 +58,7 @@ I felt this suited the No8 after dark style I was looking for and is a unique st
 Once I decided to go with this style I had to find the right design elements to suit. The first thing I did was search for a neon effect in css to see if it was even possible. 
 after some research my path led me to codingcommanders.com where I found the web-kitt code to add neon effect. This effect gave me the ability to manipulate the borders of my elements into a glowing red neon look.
 
-[Neon ouline](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-side.png?raw=true)
+[Neon outline](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-side.png?raw=true)
 
 Before implementing the changes to my website i did read that the Webkitt was to mostly be avoided in website design as it has a limited range of functionality with very few browsers using this technology.
 Taking all of this in to account I decided that for this Project I would use it anyways based on the facts the website was graded more on a good responsive mobile first design and coding layout with clear user friendly features with a consistent theme rather than the amount of viable browsers.
@@ -66,7 +66,7 @@ I feel the website has a nice flow of pictures and text, nothing too overwhelmin
 I spent a some time adjusting the zoom on the home, cocktail and gallery showcase image and played with the image sizes until the red bar stopped nicely under each of the nav bars on these pages.
 
 [home header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/home-header.png?raw=true)
-[nav after zoom](https://github.com/SteCodez/No8-Tapas-Board/blob/main/navbar.png?raw=true)
+[nav bar after zoom](https://github.com/SteCodez/No8-Tapas-Board/blob/main/navbar.png?raw=true)
 *User story 1
 *User story 2
 *User story 3
