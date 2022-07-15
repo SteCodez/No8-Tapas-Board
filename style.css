@@ -73,7 +73,6 @@ body {
     color: #000000;
     font-weight: bold;
 }
-/********************************************************************** header**/
 
 #head-tag {
     font-size: 50px;
@@ -132,13 +131,11 @@ header nav {
 header a:hover {
     color: #ff0000;
 }
-/************************************************************************* under bar**/
 
 #under-bar {
     padding-left: 20px;
     letter-spacing: 1px;
 }
-/******************************************************************** circle container images on menu**/
 
 .circle-cover-bg2 {
     width: 100%;
@@ -216,7 +213,6 @@ header a:hover {
     -o-border-radius: 50px;
     box-shadow: 10px 15px 12px #ff0000;
 }
-/************************************************************************* Showcase photos**/
 
 #showcase {
     min-height: 700px;
@@ -245,8 +241,6 @@ header a:hover {
     border-bottom: #ff0000 solid 3px;
     border-top: #ff0000 solid 3px;
     background-color: #000000;
-    /*********************************************** animates zoom effect on page */
-    
     animation-name: showcase-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -281,14 +275,11 @@ header a:hover {
     color: #fafafa;
     text-align: center;
     border-bottom: #ff0000 solid 3px;
-    border-top: #ff0000 solid 3px;
-    /*********************************************** animates zoom effect on  page */
-    
+    border-top: #ff0000 solid 3px;    
     animation-name: showcase-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
-/********************************************* creates the level of zoom for the hero image */
 
 @keyframes showcase-zoom {
     from {
@@ -300,7 +291,7 @@ header a:hover {
     }
 
 }
-/******************************************************************** contact form for menu**/
+
 .menu-drop form {
     float: right;
     margin-top: 15px;
@@ -311,7 +302,6 @@ header a:hover {
     height: 25px;
     width: 250px;
 }
-/************************************************************** Pictures for cocktail menu**/
 
 .cocktail-box {
     text-align: center;
@@ -334,7 +324,6 @@ header a:hover {
     box-shadow: 7px 12px 50px #ff0000;
 }
 
-/************************************************************************* logo under footer**********/
 #logo-bottom {
     background: url(./images/logo-clear.png) no-repeat center center;
     background-size: contain;
@@ -351,7 +340,6 @@ header a:hover {
     -o-border-radius: 50px;
     box-shadow: 7px 12px 100px #ff0000;
 }
-/************************************************************************ boxes **/
 
 #info-boxes {
     width: 100%;
@@ -424,7 +412,6 @@ header a:hover {
     font-size: 25px;
     padding: 20px;
 }
-/******************************************************************** footer */
 
 footer {
     width: auto;
@@ -499,7 +486,6 @@ footer {
     -o-transition: background-color 0.6s ease-out, color 0.6s ease-out;
     transition: background-color 0.6s ease-out, color 0.6s ease-out;
 }
-/******************************************************************************** Booking form****/
 
 #booking-form {
     text-align: center;
@@ -535,7 +521,6 @@ footer {
     padding: 30px 0 0 10px;
     text-align: center;
 }
-/**************************************booking form menu positioning*****/
 
 .heading {
     font-size: 35px;
@@ -579,7 +564,6 @@ button :hover {
     -o-transition: background-color 0.6s ease-out, color 0.6s ease-out;
     transition: background-color 0.6s ease-out, color 0.6s ease-out;
 }
-/****************************************************Fix for writing not being truly visible on home page*********/
 
 .main-page-block {
 
@@ -591,7 +575,6 @@ button :hover {
     padding: 10px;
 }
 
-/***********************************************************************adding map to bookings page*****/
 #map-container {
     width: 100%;
     height: 100%;
@@ -617,8 +600,6 @@ button :hover {
     padding: 30px 0 0 10px;
     text-align: center;
 }
-
-/*******************************************************************************Gallery Pictures******/
 
 .img-gal {
     width: auto;
