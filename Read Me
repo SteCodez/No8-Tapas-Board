@@ -51,7 +51,7 @@ As a user I found that it was feasible to have a scroll function implimented to 
 The color pallete I went with was red, black and white.
 [colour red](https://github.com/SteCodez/No8-Tapas-Board/blob/main/scheme-red.png?raw=true)
 [color black](https://github.com/SteCodez/No8-Tapas-Board/blob/main/color-black.png?raw=true)
-[color white](https://github.com/SteCodez/No8-Tapas-Board/blob/main/color-white.png?raw=true)
+[color white](https://github.com/SteCodez/No8-Tapas-Board/issues/1#issue-1306608323)
 When it came to layout and colour scheme I wanted a cool & unusual look. I was scrolling through pexels.com searching for inspiration when I came accross a picture of this neon cocktail sign which gave me the idea of a Cocktails meets moulin rouge, black and neon lights.
 [Neon sign] (https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-sign.png?raw=true)
 I felt this suited the No8 after dark style I was looking for and is a unique style that you would you would not see incorporated into businesses in Westport as they tend to have a more traditional approach when it comes to design, giving us an edge over the local competition by targeting a massive gap in the market of Westport, Co Mayo.
@@ -73,7 +73,17 @@ I spent a some time adjusting the zoom on the home, cocktail and gallery showcas
 
 Due to the way we are currently working our menu is on a chalkboard which is updated regularly. A common trend I have noticed while working there is customers who have visited the home site for No8 asking for items that are no longer served there. Sometimes this happens with multiple different requests on the same table, this in turn can lead to a very frustrating dining experience and often leads to frustrated guests. 
 To counter this issue I have added a menu request form on the home page with a notcie alerting cutsomers to reglular changes. Originally I actually had this funtion across all pages but felt it was overkill considering I already had multiple social media links and pictures around.
-[menu request](https://github.com/SteCodez/No8-Tapas-Board/blob/main/menudrop.png?raw=true)
+
+[Menu request form](https://github.com/SteCodez/No8-Tapas-Board/blob/main/menudrop.png?raw=true)
+*User story 5
+
+Straight after you pass the menu request you come to the first social media bar. I have placed two of these on the page for multiple reminders and opportunities to access one of the links while not looking too intrusive on the theme of the page.
+I added an image which I put on repeat that I think suits the look of the bar. I also like the way the elements stack into a triangle or a horizontal line making for a tidy look on nearly all phones.
+After adding the links to the bar I found that just writing the links didnt add very much appeal so I was able to find some cool font awesome icons that I used in place. To add an extra incentive to click on the social media links I wanted to add a hover selector like I did on the navigation bar buttons. To find something cool I went back to the coding commanders website where I found a nice hover funtion that suited the style of my website, all I had to do was adjust the color and follow the guidelines for installation and it was finished.
+Very easy to do and in my opinion adds a lot extra to the social media buttons.
+[Social media bar](https://github.com/SteCodez/No8-Tapas-Board/blob/main/social-media.png?raw=true)
+[Social media bar phone size](https://github.com/SteCodez/No8-Tapas-Board/blob/main/phone-social.png?raw=true)
+[Social media highlighted](https://github.com/SteCodez/No8-Tapas-Board/blob/main/social-highlight.png?raw=true)
 
 ### Technologies
 ***
