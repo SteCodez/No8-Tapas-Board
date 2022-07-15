@@ -43,18 +43,21 @@ As a user who was struggling to locate No8, I found a map on the booking page an
 As a user I was happy to see all of the links worked and all of th forms submitted on request.
 16. **As a user who Is using a mobile, when i access it will the site fully functional, readable and still pleasing to the eye**
 As a user I found the site to in an acceptable state.
-17. ****
+17. **As a user who is using a mobile, will all the information stay within the boundaries of my device**
+As a user I found that it was feasible to have a scroll function implimented to accomodate users with small devices.
 
 ### Layout and Design
 ***
-When it came to layout and color scheme I was struggling to come up with any cool concepts to get started. I was scrolling through pexels.com searching for inspiration when I came accross a picture of this neon cocktail sign. 
+When it came to layout and color scheme I was struggling to come up with any cool concepts to get started but I wanted a cool & unusual look. As I was scrolling through pexels.com searching for inspiration when I came accross a picture of this neon cocktail sign. 
 {image insert cocktail sign}
-This gave me the idea of a Cocktails meets moulin rouge, dark corners and neon lights. I felt this suited what I wanted perfectly as its a unique look that you dont see very often, giving us an edge over the local competition by tapping into a niche market thats not catered for in Westport which is traditionally more Irish styled.
+This gave me the idea of a Cocktails meets moulin rouge, dark corners and neon lights. I felt this suited what I wanted perfectly as its a unique look that you would probably not see on the Website for an established hotel or bar in the area which would be more tradionally Irish themed buisinesses, giving an edge over the local competition by tapping into another niche market thats not catered for in Westport.
 Once I decided to go with this style I had to find the right design elements to suit. The first thing I did was search for a neon effect in css to see if it was even possible. 
-after some research my path led me to codingcommanders.com where I found the web-kitt code to add neon effect. 
+after some research my path led me to codingcommanders.com where I found the web-kitt code to add neon effect. This effect gave me the ability to manipulate the border
 {insert image of webkit for neon design
 Before implementing the changes to my website i did read that the Webkitt was to mostly be avoided in website design as it has a limited range of functionality with very few browsers using this technology.
-Taking all of this in to account I decided that for this Project I would use it anyways based on the facts the website was graded more on a good responsive design and coding layout with clear user friendly features.
+Taking all of this in to account I decided that for this Project I would use it anyways based on the facts the website was graded more on a good responsive mobile first design and coding layout with clear user friendly features with a consistent theme rather than the amount of viable browsers.
+
+
 
 
 
