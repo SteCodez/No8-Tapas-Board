@@ -70,6 +70,7 @@ I spent a some time adjusting the zoom on the home, cocktail and gallery showcas
 *User story 1
 *User story 2
 *User story 3
+*User story 6
 
 Due to the way we are currently working our menu is on a chalkboard which is updated regularly. A common trend I have noticed while working there is customers who have visited the home site for No8 asking for items that are no longer served there. Sometimes this happens with multiple different requests on the same table, this in turn can lead to a very frustrating dining experience and often leads to frustrated guests. 
 To counter this issue I have added a menu request form on the home page with a notcie alerting cutsomers to reglular changes. Originally I actually had this funtion across all pages but felt it was overkill considering I already had multiple social media links and pictures around.
@@ -84,7 +85,15 @@ Very easy to do and in my opinion adds a lot extra to the social media buttons.
 [Social media bar](https://github.com/SteCodez/No8-Tapas-Board/blob/main/social-media.png?raw=true)
 [Social media bar phone size](https://github.com/SteCodez/No8-Tapas-Board/blob/main/phone-social.png?raw=true)
 [Social media highlighted](https://github.com/SteCodez/No8-Tapas-Board/blob/main/social-highlight.png?raw=true)
+*User story 6
+*User story 7
 
+Following the social media bar on the home page you come to the info-boxes. These boxes are for bits of general information like the fact we serve tapas and wine as well as what exactly the style of tapas is.#
+This is probably the first section I had to sacrifice some of my design to better suit users. The text originally did not have the box behind them causing a massive clash between the writing and the brightness of the pictures placed in the background.
+At first I really did not want to do this but after trying find another way around it the only way to fix the issue was to add the container with the black background. Fortunately this does not actually take to much away and I think the pictures are way less overwhelming now that they were originally.
+[coding for the background box](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-15%20051603%20-%20Copy.png?raw=true)
+[Before the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/infobox.png?raw=true)
+[After the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/info-box-after.png?raw=true)
 ### Technologies
 ***
 > HTML5 
