@@ -89,11 +89,13 @@ Straight after you pass the menu request you come to the first social media bar.
 I added an image which I put on repeat that I think suits the look of the bar. I also like the way the elements stack into a triangle or a horizontal line making for a tidy look on all phones.
 After adding the links to the bar I found that just writing the links didnt add very much appeal so I was able to find some cool font awesome icons that I used in place. To add an extra incentive to click on the social media links I wanted to add a hover selector like I did on the navigation bar buttons. To find something cool I went back to the coding commanders website where I found a nice hover funtion that suited the style of my website, all I had to do was adjust the color and follow the guidelines for installation and it was finished.
 Very easy to do and in my opinion adds a lot extra to the social media buttons.
+
 [Social media bar](https://github.com/SteCodez/No8-Tapas-Board/blob/main/social-media.png?raw=true)
 [Social media bar phone size](https://github.com/SteCodez/No8-Tapas-Board/blob/main/phone-social.png?raw=true)
 [Social media highlighted](https://github.com/SteCodez/No8-Tapas-Board/blob/main/social-highlight.png?raw=true)
 *User story 6
 *User story 7
+*User story 14
 
 Following the social media bar on the home page you come to the info-boxes. These boxes are for bits of general information like the fact we have a full bar, large wine selection and indicates what eating tapas style is.
 This is probably the first section I had to sacrifice some of my design to better suit users. The text originally did not have the box behind them causing a massive clash between the writing and the brightness of the pictures placed in the background.
@@ -103,17 +105,29 @@ As well as the background to help visually, there is also an auto scroll functio
 [coding for the background box](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-15%20051603%20-%20Copy.png?raw=true)
 [Before the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/infobox.png?raw=true)
 [After the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/info-box-after.png?raw=true)
+*User story 6
 
 To finish off every page I designed a footer element containing a pciture of No.8's actual logo, and some social media links. These links are fully functional, directing users to No8's other sites. The design has only one minor difference and thats he presence of a h2 element just below the div, placing it nicely under the social links and making for a nice view of the links, rather than having them squashed against the bottom of the page.
 It was hard to find an appropriate picture to fill the bar while maintaining a nice visual impact on the site. After scouring the free photo sites I came across the concert picture which after playing around with the size and shape of the footer suits perfectly when set to repeat, bringing its own atmosphere to the bottom of the page. To be honest it actually took me a while to even notice it was on repeat, only when I enlarged it did it become apparant. 
 
 [Footer of the website.](https://github.com/SteCodez/No8-Tapas-Board/blob/main/footer-social.png?raw=true)
 [No8 logo placed over the footer](https://github.com/SteCodez/No8-Tapas-Board/blob/main/logo.png?raw=true)
+*User story 6
 
+As you move on to the Cocktail page you come across the inspiration for the the color pallete and design of the website, the neon cocktail sign, reminding customers that the focus of this page is cocktails.
+Passing this you come across the first two of four images encasing the menu. After playing around with margins and divs of these boxes, I managed to impliment a cool neon road design flowing around the pictures to the cocktail menu itself. I was able to manipulate the fog to only show on the side I wanted, you will see more of this manipulation on the Gallery page.
 
+[neon fog following the pic direction](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-highway.png?raw=true)
+[fog for a picture coming from the opposite side](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-side.png?raw=true)
+[Home made sign, center between top pictures](https://github.com/SteCodez/No8-Tapas-Board/blob/main/handmade.png?raw=true)
+*User story 9
 
+Putting the menu together was difficult based on there being so many ways to format the structure. I chose to keep it the design very simple and elegant by making nice smooth round corners in wwide boxes that I feel flow very neatly into the next and look nice stacked on top of each other, creating what I hope easy to read but eye catching design for the customers who visit.
+while also catering for mobile users on smaller devices.
+[How the menu looked at the beginning](https://github.com/SteCodez/No8-Tapas-Board/blob/main/original%20menu%20style.png?raw=true)
+[Menu on a mobile device](https://github.com/SteCodez/No8-Tapas-Board/blob/main/phone-menu.png?raw=true)
 
-
+ 
 ### Technologies
 ***
 > HTML5 
