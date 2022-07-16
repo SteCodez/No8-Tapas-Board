@@ -53,6 +53,7 @@ As a user I found that it was feasible to have a scroll function implimented to 
 [Wireframe, cocktail menu](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe-2.png?raw=true)
 [Wireframe, bookings](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe3.png?raw=true)
 
+When it came to fonts I did not want to go overboard so I copied the fonts from the Love Running
 
 The color pallete I went with was red, black and white.
 [colour red](https://github.com/SteCodez/No8-Tapas-Board/blob/main/scheme-red.png?raw=true)
@@ -85,7 +86,7 @@ To counter this issue I have added a menu request form on the home page with a n
 *User story 5
 
 Straight after you pass the menu request you come to the first social media bar. I have placed two of these on the page for multiple reminders and opportunities to access one of the links while not looking too intrusive on the theme of the page.
-I added an image which I put on repeat that I think suits the look of the bar. I also like the way the elements stack into a triangle or a horizontal line making for a tidy look on nearly all phones.
+I added an image which I put on repeat that I think suits the look of the bar. I also like the way the elements stack into a triangle or a horizontal line making for a tidy look on all phones.
 After adding the links to the bar I found that just writing the links didnt add very much appeal so I was able to find some cool font awesome icons that I used in place. To add an extra incentive to click on the social media links I wanted to add a hover selector like I did on the navigation bar buttons. To find something cool I went back to the coding commanders website where I found a nice hover funtion that suited the style of my website, all I had to do was adjust the color and follow the guidelines for installation and it was finished.
 Very easy to do and in my opinion adds a lot extra to the social media buttons.
 [Social media bar](https://github.com/SteCodez/No8-Tapas-Board/blob/main/social-media.png?raw=true)
@@ -96,10 +97,13 @@ Very easy to do and in my opinion adds a lot extra to the social media buttons.
 
 Following the social media bar on the home page you come to the info-boxes. These boxes are for bits of general information like the fact we have a full bar, large wine selection and indicates what eating tapas style is.
 This is probably the first section I had to sacrifice some of my design to better suit users. The text originally did not have the box behind them causing a massive clash between the writing and the brightness of the pictures placed in the background.
-At first I really did not want to do this but after trying find another way around it the only way to fix the issue was to add the container with the black background. Fortunately this does not actually take to much away and I think the pictures are way less overwhelming now that they were originally.
+At first I really did not want to do this but after trying find another way around it the only way to fix the issue was to add the container with the black background. Fortunately this does not actually take to much away and I think the pictures are way less overwhelming now than they were originally.
+As well as the background to help visually, there is also an auto scroll function 
 [coding for the background box](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-15%20051603%20-%20Copy.png?raw=true)
 [Before the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/infobox.png?raw=true)
 [After the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/info-box-after.png?raw=true)
+
+
 
 
 
@@ -111,6 +115,8 @@ At first I really did not want to do this but after trying find another way arou
 > GitHub
 > GitPod
 > Google
+>Font Awesome
+>Google Fonts
 
 ### Installation/coding notes & Problems faced throughout
 ***
