@@ -97,11 +97,12 @@ Very easy to do and in my opinion adds a lot extra to the social media buttons.
 *User story 7
 *User story 14
 
-Following the social media bar on the home page you come to the info-boxes. These boxes are for bits of general information like the fact we have a full bar, large wine selection and indicates what eating tapas style is.
+Following the social media bar on the home page you come to the info-boxes. These boxes containing h2 and p elements are for bits of general information like the fact we have a full bar, large wine selection and indicates what eating tapas style is.
 This is probably the first section I had to sacrifice some of my design to better suit users. The text originally did not have the box behind them causing a massive clash between the writing and the brightness of the pictures placed in the background.
 At first I really did not want to do this but after trying find another way around it the only way to fix the issue was to add the container with the black background. Fortunately this does not actually take to much away and I think the pictures are way less overwhelming now than they were originally.
 As well as the background to help visually, there is also an auto scroll function 
 
+[How the info-boxes looked at the beginning](https://github.com/SteCodez/No8-Tapas-Board/blob/main/original%20menu%20style.png?raw=true)
 [coding for the background box](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-15%20051603%20-%20Copy.png?raw=true)
 [Before the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/infobox.png?raw=true)
 [After the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/info-box-after.png?raw=true)
@@ -124,8 +125,10 @@ Passing this you come across the first two of four images encasing the menu. Aft
 
 Putting the menu together was difficult based on there being so many ways to format the structure. I chose to keep it the design very simple and elegant by making nice smooth round corners in wwide boxes that I feel flow very neatly into the next and look nice stacked on top of each other, creating what I hope easy to read but eye catching design for the customers who visit.
 while also catering for mobile users on smaller devices.
-[How the menu looked at the beginning](https://github.com/SteCodez/No8-Tapas-Board/blob/main/original%20menu%20style.png?raw=true)
+
 [Menu on a mobile device](https://github.com/SteCodez/No8-Tapas-Board/blob/main/phone-menu.png?raw=true)
+[Menu item](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-16%20024029.png?raw=true)
+
 
  
 ### Technologies
