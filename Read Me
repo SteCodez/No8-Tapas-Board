@@ -226,7 +226,7 @@ You can see the form is very simple, I think it has a ncie look a you scroll the
 
 ---
 ---
-### Technologies
+## Technologies
 ***
 > HTML5 
 > CSS
@@ -241,7 +241,7 @@ You can see the form is very simple, I think it has a ncie look a you scroll the
 > Stockvault.net
 > Developer tools
 
-### Installation/coding notes & Problems faced throughout
+## Installation/coding notes & Problems faced throughout
 ***
 At first the main focus of the project was to just get a viable product ready for the web. A minimal boilerplate design that could be at the very least functional. My first attempt did not go so well as I failed to account for mobile first design technique and after a couple of days when I finally used the developer tools, I was shocked when my site was mashed together horrendously. 
 The original plan was formatted similar to the Love Runnings project with a large header and 2 extra circle-cover pictures each placed aside the center picture below the showcase with some information on either side. 
@@ -249,14 +249,18 @@ As I tried to fix it, the fact I didnt use GitHub was not commiting or saving my
 As this idea failed I decided to streamline the design and start again making it less compact and more stretched out vertically with a much more mobile friendly design that would let divs minimize while maintaining a readable standard on both the text and the images contained within the site. 
 To be completely honest I found that my code hindered me a lot in the beginning, but as my coding skills grew throughout and I finally realised how absolutely vital developer tools is, I was able to use these tools to great extent throughout the process which helped me improve my abilities and greatly increased my efficiency towards the end of the project. 
 
-### Testing
+## Testing
 
-Test to be held | Results of the test | If failed, why did it fail? | Test pass or issue resolved? |
+Test to be held | Results of the test | If failed, why did it fail? | Approved/issue resolved? |
    |-------------| ------------ | ------------- |------------- |
   Testing of the navigation elements of the website.  | I used the nav bar multiple times to successfully traverse the website without any issue at tall | |Yes
-I will click each of the social media links to see they succesfully take you to the advertised outlet.  | I found all of the social media links at both the head and footer in working order and was easily able to jump to any site I choose.||Yes
-|I will request a menu from the home page to see if the menu drops successfully.|After 10 tries I have had a 100% success rate||Yes
-|I will test the contact form submit action to see if it is also working|My attemts to submit the form were not successful.|After reviewing the code I noticed that the button element was outside the form element causing the form to not connect to the button| Yes
+Testing each of the social media links to see they succesfully take you to the advertised outlet.  | I found all of the social media links at both the head and footer in working order and was easily able to jump to any site I choose.||Yes
+|Testing request a menu form on the home page to see if the menu drops successfully.| Menu successfully submitted ||Yes
+|Testing the contact form submit action to see if the menu drops successfully.|My attemts to submit the form were not successful.|After reviewing the code I noticed that the button element was outside the form element causing the form to not connect to the button| Yes
+|Re-testing the contact form submit action | Contact form successfully submitted.||Yes
+|Testing "index.html" on the W3C Validator|Zero errors shown||Yes
+|Testing "gallery.html" on the W3C Validator |Zero errors shown||Yes
+|Testing "bookings.html on the W3C Validator|1 error shown|header element missing from a div|Yes
 
 
 ## Credits
