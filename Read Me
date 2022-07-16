@@ -99,9 +99,16 @@ Following the social media bar on the home page you come to the info-boxes. Thes
 This is probably the first section I had to sacrifice some of my design to better suit users. The text originally did not have the box behind them causing a massive clash between the writing and the brightness of the pictures placed in the background.
 At first I really did not want to do this but after trying find another way around it the only way to fix the issue was to add the container with the black background. Fortunately this does not actually take to much away and I think the pictures are way less overwhelming now than they were originally.
 As well as the background to help visually, there is also an auto scroll function 
+
 [coding for the background box](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-15%20051603%20-%20Copy.png?raw=true)
 [Before the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/infobox.png?raw=true)
 [After the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/info-box-after.png?raw=true)
+
+To finish off every page I designed a footer element containing a pciture of No.8's actual logo, and some social media links. These links are fully functional, directing users to No8's other sites. The design has only one minor difference and thats he presence of a h2 element just below the div, placing it nicely under the social links and making for a nice view of the links, rather than having them squashed against the bottom of the page.
+It was hard to find an appropriate picture to fill the bar while maintaining a nice visual impact on the site. After scouring the free photo sites I came across the concert picture which after playing around with the size and shape of the footer suits perfectly when set to repeat, bringing its own atmosphere to the bottom of the page. To be honest it actually took me a while to even notice it was on repeat, only when I enlarged it did it become apparant. 
+
+[Footer of the website.](https://github.com/SteCodez/No8-Tapas-Board/blob/main/footer-social.png?raw=true)
+[No8 logo placed over the footer](https://github.com/SteCodez/No8-Tapas-Board/blob/main/logo.png?raw=true)
 
 
 
@@ -124,7 +131,7 @@ At first the main focus of the project was to just get a viable product ready fo
 The original plan was formatted similar to the Love Runnings project with a large header and 2 extra circle-cover pictures each placed aside the center picture below the showcase with some information on either side. 
 As I tried to fix it, the fact I didnt use GitHub was not commiting or saving my work meant that making big changes was sometimes leading me down rabbit holes and my site would look completely different or nothing would go where I wanted it to go and even after spending large amount of time my site would remain unfriendly towards mobiles.
 As this idea failed I decided to streamline the design and start again making it less compact and more stretched out vertically with a much more mobile friendly design that would let divs minimize while maintaining a readable standard on both the text and the images contained within the site. 
-To be completely honest I found that my code hindered me a lot in the beginning, but as my coding skills grew throughout and I finally realised how absolutely vital developer tools is, I was able to used these tools to great extent throughout the process which helped me improve my abilities and greatly increased my efficiency towards the end of the project. 
+To be completely honest I found that my code hindered me a lot in the beginning, but as my coding skills grew throughout and I finally realised how absolutely vital developer tools is, I was able to use these tools to great extent throughout the process which helped me improve my abilities and greatly increased my efficiency towards the end of the project. 
 
 
 A little intro about the installation. 
