@@ -262,6 +262,11 @@ Testing each of the social media links to see they succesfully take you to the a
 |Testing "gallery.html" on the W3C Validator |Zero errors shown||Yes
 |Testing "bookings.html on the W3C Validator|1 error shown|header element missing from a div|Yes
 
+>[Home page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-index.png?raw=true)
+>[Cocktail page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-cocktails.png?raw=true)
+>[Gallery page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-gallery.png?raw=true)
+>[Bookings page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-bookings.png?raw=true)
+>[Style.css page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/css-validator.png?raw=true)
 
 ## Credits
 Side inform
