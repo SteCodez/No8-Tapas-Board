@@ -108,10 +108,10 @@ As a user I found the site to in an acceptable state.
 ---
 
 #### Wireframes
--[Wireframe, phones](https://github.com/SteCodez/No8-Tapas-Board/blob/main/small-device.png?raw=true)
--[Wireframe, home page](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe-head.png?raw=true)
--[Wireframe, cocktail menu](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe-2.png?raw=true)
--[Wireframe, bookings](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe3.png?raw=true)
+- [Wireframe, phones](https://github.com/SteCodez/No8-Tapas-Board/blob/main/small-device.png?raw=true)
+- [Wireframe, home page](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe-head.png?raw=true)
+- [Wireframe, cocktail menu](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe-2.png?raw=true)
+- [Wireframe, bookings](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe3.png?raw=true)
 
 ---
 
