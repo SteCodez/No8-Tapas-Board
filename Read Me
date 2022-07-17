@@ -1,9 +1,9 @@
 # Project-1-CodeInstitute
 ## Table of Contents
 1. [General Info](#Introduction)
-2. [User Stories](#User Stories)
-3. [Layout & Design](#Layout & Design)
-4. [Technologies Used](#Technologies Used)
+2. [User Stories](#UserStories)
+3. [Layout & Design](#Layout&Design)
+4. [Technologies Used](#TechnologiesUsed)
 5. [Testing](#Testing)
 6. [Credits](#Credits)
 
@@ -157,11 +157,13 @@ Very easy to do and in my opinion adds a lot extra to the social media buttons.
 > [Social media highlighted](https://github.com/SteCodez/No8-Tapas-Board/blob/main/social-highlight.png?raw=true)
 
 ---
+#### Info-Boxes
 Following the social media bar on the home page you come to the info-boxes. These boxes containing h2 and p elements are for bits of general information like the fact we have a full bar, large wine selection and indicates what eating tapas style is.
 This is probably the first section I had to sacrifice some of my design to better suit users. The text originally did not have the box behind them causing a massive clash between the writing and the brightness of the images placed in the background.
 At first I really did not want to do this as I wanted the images but after trying find another way around it the only way to fix the issue was to add the container with the black background. Fortunately this does not actually take to much away and I think the pictures are way less overwhelming now than they were originally.
 As well as the background to help visually, there is also an auto scroll function 
 ---
+*User story 4
 *User story 6.
  *User story 16.
  
@@ -171,6 +173,7 @@ As well as the background to help visually, there is also an auto scroll functio
 > [After the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/info-box-after.png?raw=true)
  
 ---
+#### Footer
 To finish off every page I designed a footer element containing an image of No.8's actual logo, and some social media links. These links are fully functional, directing users to No8's other sites. The design has only one minor difference and thats he presence of a h2 element just below the div, placing it nicely under the social links and making for a nice view of the links, rather than having them squashed against the bottom of the page.
 It was hard to find an appropriate picture to fill the bar while maintaining a nice visual impact on the site. After scouring the free photo sites I came across the concert picture which after playing around with the size and shape of the footer suits perfectly when set to repeat, bringing its own atmosphere to the bottom of the page. To be honest it actually took me a while to even notice it was on repeat, only when I enlarged it did it become apparant. 
 
@@ -180,7 +183,8 @@ It was hard to find an appropriate picture to fill the bar while maintaining a n
 > [No8 logo placed over the footer](https://github.com/SteCodez/No8-Tapas-Board/blob/main/logo.png?raw=true)
 
 ---
-As you move on to the Cocktail page you come across the inspiration for the the color pallete and design of the website, the neon cocktail sign, reminding customers that the focus of this page is cocktails.
+## Cocktail 
+As you move on to the Cocktail page you come across the inspiration for the the color pallete and design of the website, the neon cocktail sign, reminding customers that the focus of this page is cocktails. 
 Passing this you come across the first two of four images encasing the menu. After playing around with margins and divs of these boxes, I managed to impliment a cool neon road design flowing around the pictures to the cocktail menu itself. I was able to manipulate the fog to only show on the side I wanted, you will see more of this manipulation on the Gallery page.
 
 *User story 9.
@@ -274,4 +278,5 @@ Testing each of the social media links to see they succesfully take you to the a
 ## Credits
 ***
 https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
-
+https://www.pexels.com/
+https://www.stockvault.net/
