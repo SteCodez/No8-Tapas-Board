@@ -141,9 +141,9 @@ header a:hover {
 .circle-cover-bg2 {
     width: 100%;
     margin: 5%;
-    height: 500px;
+    height: 400px;
     background: url(./images/gallery-pic7.webp) no-repeat;
-    background-size: cover;
+    background-size: contain;
     border-width: 2px;
     border-top: #ff0000 solid 3px;
     background-color: #000000;
@@ -199,9 +199,9 @@ header a:hover {
 .circle-cover-bg5 {
     width: 100%;
     margin: 5%;
-    height: 500px;
+    height: 400px;
     background: url(./images/bar-ohoto.jpeg) no-repeat;
-    background-size: cover;
+    background-size: contain;
     border-width: 2px;
     border-top: #ff0000 solid 3px;
     background-color: #000000;
