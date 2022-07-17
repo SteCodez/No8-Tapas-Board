@@ -59,7 +59,7 @@ As a user I found the consistent theme throughout very pleasing to the eye and e
 ---
 
 #### 7. **As a user who is looking to access No8's social media sites will there be a clear path for me to these links?**
-*As a user I found it very easy to access No's social media as there were link bars placed under the initial picture on every page as well as in the footer. Also there were reminders of No8's social media throughout the website
+As a user I found it very easy to access No's social media as there were link bars placed under the initial picture on every page as well as in the footer. Also there were reminders of No8's social media throughout the website
 
 ---
 
@@ -111,13 +111,17 @@ As a user I found the site to in an acceptable state.
 [Wireframe, home page](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe-head.png?raw=true)
 [Wireframe, cocktail menu](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe-2.png?raw=true)
 [Wireframe, bookings](https://github.com/SteCodez/No8-Tapas-Board/blob/main/wireframe3.png?raw=true)
+
 ---
+
  #### Fonts
 When it came to fonts I did not want to go overboard so I copied the fonts from the Love Running which consisted of Oswald & Lato with a back up of sans-serif.
 I think the font goes nicely with the stylr, too think and it would take away from the classy look of the page.
 The sizes varied with the intro to the home page coming in at 50pxls to seperate it in its own way from the other pages.
 
+---
 #### Color Palette
+
 The color pallete I went with was red, black and white. The red neon lights spread throughout the project symbolize moulin rouge with the dark mistiness theme surrounding the edges of most elements and attributes.
 
 
@@ -127,6 +131,7 @@ The color pallete I went with was red, black and white. The red neon lights spre
 
 ---
 #### Inspiration & Page Intros
+
 When it came to layout and colour scheme I wanted a cool & unusual look. I was scrolling through pexels.com searching for inspiration when I came accross a picture of this neon cocktail sign which gave me the idea of a Cocktails meets moulin rouge, black and neon lights.
 
 I felt this suited the No8 after dark style I was looking for and is a unique style, businesses in Westport tend to have a more traditional approach when it comes to design, giving us an edge over the local bars by targeting a completely different clientel.
@@ -138,6 +143,7 @@ after some research my path led me to codingcommanders.com where I found the web
 
 ---
 #### Header
+
 Before implementing the changes to my website i did read that the Webkitt was to mostly be avoided in website design as it has a limited range of functionality with very few browsers using this technology.
 Taking all of this in to account I decided that for this Project I would use it anyways based on the facts the website was graded more on a good responsive mobile first design and coding layout with clear user friendly features with a consistent theme rather than the amount of viable browsers.
 I feel the website has a nice flow of pictures and text, nothing too overwhelming, as you enter you are instantly presented with the header bar consisting of the name of our establishment and our location followed by the navigation elements. One of my favourite functions of the whole site is contained within the showcase below which is the zoom function.
@@ -151,9 +157,10 @@ I spent a some time adjusting the zoom on the home, cocktail and gallery showcas
 
 [home header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/home-header.png?raw=true)
 [nav bar after zoom](https://github.com/SteCodez/No8-Tapas-Board/blob/main/navbar.png?raw=true)
----
 
+---
 #### Menu Request Bar
+
 Due to the way we are currently working our menu is on a chalkboard which is updated regularly. A common trend I have noticed while working there is customers who have visited the home site for No8 asking for items that are no longer served there. Sometimes this happens with multiple different requests on the same table, this in turn can lead to a very frustrating dining experience and often leads to frustrated guests. 
 To counter this issue I have added a menu request form on the home page with a notcie alerting cutsomers to reglular changes. Originally I actually had this funtion across all pages but felt it was overkill considering I already had multiple social media links and pictures covering each page.
 *User story 14
@@ -163,6 +170,7 @@ To counter this issue I have added a menu request form on the home page with a n
 
 ---
 #### Social Media Links
+
 Straight after you pass the menu request you come to the first social media bar. I have placed two of these on the page for multiple reminders and opportunities to access one of the links while not looking too intrusive on the theme of the page.
 I added an image which I put on repeat that I think suits the look of the bar. I also like the way the elements stack into a triangle or a horizontal line making for a tidy look on all phones.
 After adding the links to the bar I found that just writing the links didnt add very much appeal so I was able to find some cool font awesome icons that I used in place. To add an extra incentive to click on the social media links I wanted to add a hover selector like I did on the navigation bar buttons. To find something cool I went back to the coding commanders website where I found a nice hover funtion that suited the style of my website, all I had to do was adjust the color and follow the guidelines for installation and it was finished.
@@ -178,6 +186,7 @@ Very easy to do and in my opinion adds a lot extra to the social media buttons.
 
 ---
 #### Info-Boxes
+
 Following the social media bar on the home page you come to the info-boxes. These boxes containing h2 and p elements are for bits of general information like the fact we have a full bar, large wine selection and indicates what eating tapas style is.
 This is probably the first section I had to sacrifice some of my design to better suit users. The text originally did not have the box behind them causing a massive clash between the writing and the brightness of the images placed in the background.
 At first I really did not want to do this as I wanted the images but after trying find another way around it the only way to fix the issue was to add the container with the black background. Fortunately this does not actually take to much away and I think the pictures are way less overwhelming now than they were originally.
@@ -195,6 +204,7 @@ As well as the background to help visually, there is also an auto scroll functio
  
 ---
 #### Footer
+
 To finish off every page I designed a footer element containing an image of No.8's actual logo, and some social media links. These links are fully functional, directing users to No8's other sites. The design has only one minor difference and thats he presence of a h2 element just below the div, placing it nicely under the social links and making for a nice view of the links, rather than having them squashed against the bottom of the page.
 It was hard to find an appropriate picture to fill the bar while maintaining a nice visual impact on the site. After scouring the free photo sites I came across the concert picture which after playing around with the size and shape of the footer suits perfectly when set to repeat, bringing its own atmosphere to the bottom of the page. To be honest it actually took me a while to even notice it was on repeat, only when I enlarged it did it become apparant. 
 
@@ -206,7 +216,8 @@ It was hard to find an appropriate picture to fill the bar while maintaining a n
 > [No8 logo placed over the footer](https://github.com/SteCodez/No8-Tapas-Board/blob/main/logo.png?raw=true)
 
 ---
-## Cocktail 
+#### Cocktail
+
 As you move on to the Cocktail page you come across the inspiration for the the color pallete and design of the website, the neon cocktail sign, reminding customers that the focus of this page is cocktails. 
 Passing this you come across the first two of four images encasing the menu. After playing around with margins and divs of these boxes, I managed to impliment a cool neon road design flowing around the pictures to the cocktail menu itself. I was able to manipulate the fog to only show on the side I wanted, you will see more of this manipulation on the Gallery page.
 
@@ -218,6 +229,7 @@ Passing this you come across the first two of four images encasing the menu. Aft
 
 ---
 #### Menu
+
 Putting the menu together was difficult based on there being so many ways to format the structure. I chose to keep it the design very simple and elegant by making nice smooth round corners in wide boxes that I feel flow very neatly into themselves creating what I hope is an easy to read but eye catching design for the customers who visit this website.
 I feel the neon glow works especially well on this page ass it brings the menu to life. The also include font-awesome icon numbers in place of text.
 
@@ -229,13 +241,14 @@ I feel the neon glow works especially well on this page ass it brings the menu t
 
 ---
 #### Gallery
+
 Visiting the Gallery page you notice the large clock straight away, this clock is a centerpiece on the street where No8 is located and I thought it made a nice intro. At this point you may have noticed that I have kept the overall design for the first three pages very similar trying to live up to the Kiss and Dry rules by making the pages unidentical twins of each other.
 As you continue down the page you will notice I have changed the design surrounding the gallery images with a slightly different neon bordering, I felt making the colour sharper and closer to the border of the images
 it made them pop more and the fade off into the black was quicker which didnt polute the gallery background with too much red glow and created a small eclipse effect on the frames. I wanted to keep the gallery a lot sharper, as you would expect from a gallery.
 As you scroll out of the gallery I thought it felt strange going straight into the No8 logo, it ruined the flow of the page and needed something to help. I created a outro strip of pics designed to break the flow from the gallery and attach the gallery to the main design.
 Some but not all of the pcitures are from the actual business, I was planning on using 100% real photos but I had image quality issues when I tried to apply them to the website so I ended with a mix of real and stock photos.
----
-*Usr story 15.
+
+*User story 15.
 *User story 8.
 *User story 9.
 
@@ -248,9 +261,8 @@ Some but not all of the pcitures are from the actual business, I was planning on
 When I finished the initial design of the bookings page it was covered from top to bottom with pictures, a mentor highlighted this issue by asking me to "find my submit button" which called for an immediate simplification of the page to enhance usability and user experience overall.
 I decided to remove all pictures and even the showcase, I felt this indicated clearly upon entry that you were on a different style of page and it had a more formal look. Another worry ofhaving a showcase was that it would overshadow the message about making a bookings. In such a busy town its essential to book as there is no guarunteed seats in Westport on a summers day!
 You can see the form is very simple, I think it has a ncie look a you scroll the sections. I thought having all of opening info as well as the google maps on this page made sense as it was basically a bookings and location hub with all of our contact and location now being in packed into one page, allowing the rest of the pages to maintain the theme of the site.
-I also added 
 
-*User stroy 11
+*User story 11
 *User story 13.
 *User story 15.
 *User story 14.
@@ -267,6 +279,7 @@ I also added
 ---
 ## Technologies
 ***
+
 > HTML5 
 > CSS
 > VSCode
@@ -279,9 +292,13 @@ I also added
 > Pexels.come
 > Stockvault.net
 > Developer tools
+> 
 ---
 ---
 ## Testing
+---
+---
+
 The very first time I tested the website through the validator there was 26 total errors, I spent a few hours patching all of these errors up, they mostly consisted of stray end tags, divs with no headers and unclosed elements.
 The following tests were held after I adjusted the code appropriately. 
 
@@ -304,8 +321,12 @@ Testing each of the social media links to see they succesfully take you to the a
 >[Bookings page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-bookings.png?raw=true)
 >[Style.css page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/css-validator.png?raw=true)
 
+---
+---
 ## Credits
-***
+---
+---
+
 https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
 https://www.pexels.com/
 https://www.stockvault.net/
