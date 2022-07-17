@@ -224,6 +224,7 @@ As you move on to the Cocktail page you come across the inspiration for the the 
 Passing this you come across the first two of four images encasing the menu. After playing around with margins and divs of these boxes, I managed to impliment a cool neon road design flowing around the pictures to the cocktail menu itself. I was able to manipulate the fog to only show on the side I wanted, you will see more of this manipulation on the Gallery page.
 
  User story 9.
+ User story 8.
 
 - [neon fog following the pic direction](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-highway.png?raw=true)
 - [fog for a picture coming from the opposite side](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-side.png?raw=true)
