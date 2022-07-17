@@ -161,9 +161,9 @@ header a:hover {
 .circle-cover-bg3 {
     width: 100%;
     margin: 5%;
-    height: 500px;
+    height: 400px;
     background: url(./images/happy-worker.webp) no-repeat center center;
-    background-size: cover;
+    background-size: contain;
     border-width: 2px;
     border-top: #ff0000 solid 3px;
     background-color: #000000;
@@ -181,9 +181,9 @@ header a:hover {
 .circle-cover-bg4 {
     width: 100%;
     margin: 5%;
-    height: 500px;
+    height: 400px;
     background: url(./images/whiskey-bottle.webp) no-repeat;
-    background-size: cover;
+    background-size: contain;
     border-width: 2px;
     border-top: #ff0000 solid 3px;
     background-color: #000000;
