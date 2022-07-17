@@ -228,7 +228,7 @@ I feel the neon glow works especially well on this page ass it brings the menu t
 > [Menu item](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-16%20024029.png?raw=true)
 
 ---
-#### The Gallery
+#### Gallery
 Visiting the Gallery page you notice the large clock straight away, this clock is a centerpiece on the street where No8 is located and I thought it made a nice intro. At this point you may have noticed that I have kept the overall design for the first three pages very similar trying to live up to the Kiss and Dry rules by making the pages unidentical twins of each other.
 As you continue down the page you will notice I have changed the design surrounding the gallery images with a slightly different neon bordering, I felt making the colour sharper and closer to the border of the images
 it made them pop more and the fade off into the black was quicker which didnt polute the gallery background with too much red glow and created a small eclipse effect on the frames. I wanted to keep the gallery a lot sharper, as you would expect from a gallery.
