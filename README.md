@@ -151,11 +151,11 @@ Taking all of this in to account I decided that for this Project I would use it 
 I feel the website has a nice flow of pictures and text, nothing too overwhelming, as you enter you are instantly presented with the header bar consisting of the name of our establishment and our location followed by the navigation elements. One of my favourite functions of the whole site is contained within the showcase below which is the zoom function.
 I spent a some time adjusting the zoom on the home, cocktail and gallery showcase image and played with the image sizes until the red bar stopped nicely under each of the nav bars on these pages.
 
- User story 1.
- User story 2.
- User story 3.
- User story 6.
- User story 13.
+ User story 1 /
+ User story 2 /
+ User story 3 /
+ User story 6 /
+ User story 13
 
 - [h2 element inside the header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/index%20header.png?raw=true)
 - [home header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/home-header.png?raw=true)
@@ -181,9 +181,9 @@ I added an image which I put on repeat that I think suits the look of the bar. I
 After adding the links to the bar I found that just writing the links didnt add very much appeal so I was able to find some cool font awesome icons that I used in place. To add an extra incentive to click on the social media links I wanted to add a hover selector like I did on the navigation bar buttons. To find something cool I went back to the coding commanders website where I found a nice hover funtion that suited the style of my website, all I had to do was adjust the color and follow the guidelines for installation and it was finished.
 Very easy to do and in my opinion adds a lot extra to the social media buttons.
 
- User story 6.
- User story 7.
- User story 14.
+ User story 6 /
+ User story 7 /
+ User story 14 
 
 - [Social media bar](https://github.com/SteCodez/No8-Tapas-Board/blob/main/social-media.png?raw=true)
 - [Social media bar phone size](https://github.com/SteCodez/No8-Tapas-Board/blob/main/phone-social.png?raw=true)
@@ -197,10 +197,10 @@ This is probably the first section I had to sacrifice some of my design to bette
 At first I really did not want to do this as I wanted the images but after trying find another way around it the only way to fix the issue was to add the container with the black background. Fortunately this does not actually take to much away and I think the pictures are way less overwhelming now than they were originally.
 As well as the background to help visually, there is also an auto scroll function 
 
- User story 15./
- User story 4./
- User story 6./
- User story 16./
+ User story 15 /
+ User story 4 /
+ User story 6 /
+ User story 16 
  
 - [How the info-boxes looked at the beginning](https://github.com/SteCodez/No8-Tapas-Board/blob/main/original%20menu%20style.png?raw=true)
 - [coding for the background box](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-15%20051603%20-%20Copy.png?raw=true)
@@ -213,9 +213,9 @@ As well as the background to help visually, there is also an auto scroll functio
 To finish off every page I designed a footer element containing an image of No.8's actual logo, and some social media links. These links are fully functional, directing users to No8's other sites. The design has only one minor difference and thats he presence of a h2 element just below the div, placing it nicely under the social links and making for a nice view of the links, rather than having them squashed against the bottom of the page.
 It was hard to find an appropriate picture to fill the bar while maintaining a nice visual impact on the site. After scouring the free photo sites I came across the concert picture which after playing around with the size and shape of the footer suits perfectly when set to repeat, bringing its own atmosphere to the bottom of the page. To be honest it actually took me a while to even notice it was on repeat, only when I enlarged it did it become apparant. 
 
- User story 15./
- User story 14./
- User story 6./
+ User story 15 /
+ User story 14 /
+ User story 6 
 
 
 - [Footer of the website.](https://github.com/SteCodez/No8-Tapas-Board/blob/main/footer-social.png?raw=true)
@@ -227,8 +227,8 @@ It was hard to find an appropriate picture to fill the bar while maintaining a n
 As you move on to the Cocktail page you come across the inspiration for the the color pallete and design of the website, the neon cocktail sign, reminding customers that the focus of this page is cocktails. 
 Passing this you come across the first two of four images encasing the menu. After playing around with margins and divs of these boxes, I managed to impliment a cool neon road design flowing around the pictures to the cocktail menu itself. I was able to manipulate the fog to only show on the side I wanted, you will see more of this manipulation on the Gallery page.
 
- User story 9./
- User story 8./
+ User story 9 /
+ User story 8 
 
 - [neon fog following the pic direction](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-highway.png?raw=true)
 - [fog for a picture coming from the opposite side](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-side.png?raw=true)
@@ -240,8 +240,8 @@ Passing this you come across the first two of four images encasing the menu. Aft
 Putting the menu together was difficult based on there being so many ways to format the structure. I chose to keep it the design very simple and elegant by making nice smooth round corners in wide boxes that I feel flow very neatly into themselves creating what I hope is an easy to read but eye catching design for the customers who visit this website.
 I feel the neon glow works especially well on this page ass it brings the menu to life. The also include font-awesome icon numbers in place of text.
 
- User story 8./
- User story 15./
+ User story 8 /
+ User story 15 
 
 - []()
 - [The menu initial basic design](https://github.com/SteCodez/No8-Tapas-Board/blob/main/original-cocktail.png?raw=true)
@@ -257,9 +257,9 @@ it made them pop more and the fade off into the black was quicker which didnt po
 As you scroll out of the gallery I thought it felt strange going straight into the No8 logo, it ruined the flow of the page and needed something to help. I created a outro strip of pics designed to break the flow from the gallery and attach the gallery to the main design.
 Some but not all of the pcitures are from the actual business, I was planning on using 100% real photos but I had image quality issues when I tried to apply them to the website so I ended with a mix of real and stock photos.
 
- User story 15./
- User story 8./
- User story 9./
+ User story 15 /
+ User story 8 /
+ User story 9 
  
 - [The gallery header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-15%20052657.png?raw=true)
 - [A single gallery image](https://github.com/SteCodez/No8-Tapas-Board/blob/main/gallery-picture.png?raw=true) 
@@ -272,11 +272,11 @@ When I finished the initial design of the bookings page it was covered from top 
 I decided to remove all pictures and even the showcase, I felt this indicated clearly upon entry that you were on a different style of page and it had a more formal look. Another worry ofhaving a showcase was that it would overshadow the message about making a bookings. In such a busy town its essential to book as there is no guarunteed seats in Westport on a summers day!
 You can see the form is very simple, I think it has a ncie look a you scroll the sections. I thought having all of opening info as well as the google maps on this page made sense as it was basically a bookings and location hub with all of our contact and location now being in packed into one page, allowing the rest of the pages to maintain the theme of the site.
 
- User story 11/
- User story 13./
- User story 15./
- User story 14./
- User story 10./
+ User story 11 /
+ User story 13 /
+ User story 15 /
+ User story 14 /
+ User story 10
 
 - [Booking page header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/booking%20page.png?raw=true)
 - [Bookings notice](https://github.com/SteCodez/No8-Tapas-Board/blob/main/book-avoid.png?raw=true)
