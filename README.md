@@ -85,6 +85,7 @@ As a user who wants to book a table, I noticed the button for bookings at No8 al
 
 #### 12. **As a user who is looking to book for a large group, will it be clear that No8 accepts large groups and if so is there a path provided to complete a booking.**
 As a user booking for a large group, a notice requesting a call for larger bookings was placed on the bookings page which I found as an acceptable solution.
+
 ---
 
 #### 13. **As a user who is in Westport but cannot find the exact location of No8 Mill St, how can I find the exact location?**
@@ -99,6 +100,7 @@ As a user I was happy to see all of the links worked and all of th forms submitt
 
 #### 15. **As a user who Is using a mobile, when i access it will the site fully functional, readable and still pleasing to the eye**
 As a user I found the site to in an acceptable state.
+
 ---
 ---
 ## Layout and Design
