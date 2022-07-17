@@ -16,7 +16,7 @@
 The purpose of this site is to give No.8 Mill St, the company I work for, a new and unique design overhaul.
 Currently we have tapped into the cocktail market but if you visit the link extra link in my project it will take you to the real website where you will find no mention of cocktails even though it is now sometimes attributing to over 50% of incoming sales over the period of a week. 
 Using this website to give No8 an after dark sister site to promote and advertise its new entry into this untapped well.
-The site does not math the wireframes I designed but I feel as I learned more and more over the last week I enjoyed implementing new and cool ideas and the site ended up in the best possible state it could be. The project de railed when I had to fix all of the errors as it drastically changed a lot of features.
+The website does not match the wireframes I designed but I feel as I learned more and more over the last week I enjoyed implementing new and cool ideas and the site ended up in the best possible state it could be. The project de railed when I had to fix all of the errors as it drastically changed a lot of features.
 Luckily I find my problem solving sills improving and I am starting to understand the why and not just the how of a lot of things.
 Overall I am extremely proud of this website, it is my first time ever trying anything like this and I put in a ton of time and effort which I hope pays off in the end.
 This file is definitely one of the hardest things about the project, if there was one piece of advice I would have taken more seriously from the first master class it would have been the warning to start the readme immediately.
