@@ -139,8 +139,9 @@ I felt this suited the No8 after dark style I was looking for and is a unique st
 Once I decided to go with this style I had to find the right design elements to suit. The first thing I did was search for a neon effect in css to see if it was even possible. 
 after some research my path led me to codingcommanders.com where I found the web-kitt code to add neon effect. This effect gave me the ability to manipulate the borders of my elements into a glowing red neon look.
 
--[Neon sign] (https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-sign.png?raw=true)
--[Neon outline](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-side.png?raw=true)
+- [Neon sign] (https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-sign.png?raw=true)
+- [Neon outline](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-side.png?raw=true)
+- [Neon on the side of an element](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-side.png?raw=true)
 
 ---
 #### Header
@@ -156,8 +157,10 @@ I spent a some time adjusting the zoom on the home, cocktail and gallery showcas
  User story 6.
  User story 13.
 
+- [h2 element inside the header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/index%20header.png?raw=true)
 - [home header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/home-header.png?raw=true)
 - [nav bar after zoom](https://github.com/SteCodez/No8-Tapas-Board/blob/main/navbar.png?raw=true)
+- [Header responsiveness](https://github.com/SteCodez/No8-Tapas-Board/blob/main/header-phone.png?raw=true)
 
 ---
 #### Menu Request Bar
@@ -203,7 +206,7 @@ As well as the background to help visually, there is also an auto scroll functio
 - [coding for the background box](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-15%20051603%20-%20Copy.png?raw=true)
 - [Before the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/infobox.png?raw=true)
 - [After the box was added](https://github.com/SteCodez/No8-Tapas-Board/blob/main/info-box-after.png?raw=true)
- 
+- [Cocktail info box](https://github.com/SteCodez/No8-Tapas-Board/blob/main/cocktail-info.png?raw=true)
 ---
 #### Footer
 
@@ -213,6 +216,7 @@ It was hard to find an appropriate picture to fill the bar while maintaining a n
  User story 15.
  User story 14.
  User story 6.
+
 
 - [Footer of the website.](https://github.com/SteCodez/No8-Tapas-Board/blob/main/footer-social.png?raw=true)
 - [No8 logo placed over the footer](https://github.com/SteCodez/No8-Tapas-Board/blob/main/logo.png?raw=true)
@@ -239,6 +243,8 @@ I feel the neon glow works especially well on this page ass it brings the menu t
  User story 8.
  User story 15.
 
+- []()
+- [The menu initial basic design](https://github.com/SteCodez/No8-Tapas-Board/blob/main/original-cocktail.png?raw=true)
 - [Menu on a mobile device](https://github.com/SteCodez/No8-Tapas-Board/blob/main/phone-menu.png?raw=true)
 - [Menu item](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-16%20024029.png?raw=true)
 
@@ -254,7 +260,8 @@ Some but not all of the pcitures are from the actual business, I was planning on
  User story 15.
  User story 8.
  User story 9.
-
+ 
+- [The gallery header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/Screenshot%202022-07-15%20052657.png?raw=true)
 - [A single gallery image](https://github.com/SteCodez/No8-Tapas-Board/blob/main/gallery-picture.png?raw=true) 
 - [image strip, eclipse effect](https://github.com/SteCodez/No8-Tapas-Board/blob/main/red-eclipse.png?raw=true)
 - [gallery ending strip](https://github.com/SteCodez/No8-Tapas-Board/blob/main/outro-gallery.png?raw=true)
