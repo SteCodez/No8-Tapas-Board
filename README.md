@@ -133,8 +133,8 @@ I felt this suited the No8 after dark style I was looking for and is a unique st
 Once I decided to go with this style I had to find the right design elements to suit. The first thing I did was search for a neon effect in css to see if it was even possible. 
 after some research my path led me to codingcommanders.com where I found the web-kitt code to add neon effect. This effect gave me the ability to manipulate the borders of my elements into a glowing red neon look.
 
-> [Neon sign] (https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-sign.png?raw=true)
-> [Neon outline](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-side.png?raw=true)
+[Neon sign] (https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-sign.png?raw=true)
+[Neon outline](https://github.com/SteCodez/No8-Tapas-Board/blob/main/neon-side.png?raw=true)
 
 ---
 #### Header
@@ -149,8 +149,8 @@ I spent a some time adjusting the zoom on the home, cocktail and gallery showcas
 *User story 6.
 *User story 13.
 
-> [home header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/home-header.png?raw=true)
-> [nav bar after zoom](https://github.com/SteCodez/No8-Tapas-Board/blob/main/navbar.png?raw=true)
+[home header](https://github.com/SteCodez/No8-Tapas-Board/blob/main/home-header.png?raw=true)
+[nav bar after zoom](https://github.com/SteCodez/No8-Tapas-Board/blob/main/navbar.png?raw=true)
 ---
 
 #### Menu Request Bar
@@ -159,7 +159,7 @@ To counter this issue I have added a menu request form on the home page with a n
 *User story 14
 *User story 5.
 
-> [Menu request form](https://github.com/SteCodez/No8-Tapas-Board/blob/main/menudrop.png?raw=true)
+[Menu request form](https://github.com/SteCodez/No8-Tapas-Board/blob/main/menudrop.png?raw=true)
 
 ---
 #### Social Media Links
