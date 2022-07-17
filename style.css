@@ -308,9 +308,9 @@ header a:hover {
 #logo-bottom {
     background: url(./images/logo-clear.png) no-repeat center center;
     background-size: contain;
-    width: 100%;
+    width: 93%;
     height: 100%;
-    padding: 10px;
+    padding: 40px;
     background-color: #000000;
     margin: auto;
     border-top: #ff0000 solid 3px;
