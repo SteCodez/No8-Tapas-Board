@@ -162,7 +162,7 @@ header a:hover {
     width: 100%;
     margin: 5%;
     height: 400px;
-    background: url(./images/happy-worker.webp) no-repeat center center;
+    background: url(./images/happy-worker.webp) no-repeat right;
     background-size: contain;
     border-width: 2px;
     border-top: #ff0000 solid 3px;
@@ -200,7 +200,7 @@ header a:hover {
     width: 100%;
     margin: 5%;
     height: 400px;
-    background: url(./images/bar-ohoto.jpeg) no-repeat;
+    background: url(./images/bar-ohoto.jpeg) no-repeat right;
     background-size: contain;
     border-width: 2px;
     border-top: #ff0000 solid 3px;
