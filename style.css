@@ -415,22 +415,7 @@ header a:hover {
 }
 
 .social-box {
-    width: auto;
-    padding: 20px;
-    color: #fafafa;
-    background-color: #000000;
-    text-align: center;
-    border-top: #ff0000 solid 3px;
-    border-bottom: #ff0000 solid 3px;
-    align-items: center;
-    background: url(./images/background-party.webp);
-    background-size: contain;
-    border-radius: 20%;
-    -webkit-border-radius: 50px;
-    -moz-border-radius: 50px;
-    -ms-border-radius: 50px;
-    -o-border-radius: 50px;
-    box-shadow: 5px 10px 15px #ff0000;
+  
 }
 
 #top-social {
@@ -457,14 +442,22 @@ header a:hover {
 }
 
 .social {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    padding: 15px;
-    border-radius: 6px;
-    position: relative;
-    overflow: hidden;
+  width: auto;
+    padding: 20px;
+    color: #fafafa;
+    background-color: #000000;
+    text-align: center;
+    border-top: #ff0000 solid 3px;
+    border-bottom: #ff0000 solid 3px;
+    align-items: center;
+    background: url(./images/background-party.webp);
+    background-size: contain;
+    border-radius: 20%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 5px 10px 15px #ff0000;
 }
 
 .social a {
