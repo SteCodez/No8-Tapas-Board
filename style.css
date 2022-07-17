@@ -218,7 +218,7 @@ header a:hover {
 #showcase {
     min-height: 700px;
     background: url(./images/cocktail-back.jpeg);
-    background-size: cover;
+    background-size: contain;
     min-width: 100%;
     overflow: hidden;
     color: #fafafa;
@@ -234,7 +234,7 @@ header a:hover {
 #showcase2 {
     min-height: 700px;
     background: url(./images/cocktail-neon.webp);
-    background-size: cover;
+    background-size: contain;
     min-width: 100%;
     overflow: hidden;
     color: #fafafa;
@@ -245,26 +245,6 @@ header a:hover {
     animation-name: showcase-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
-}
-
-#showcase3 {
-    padding-top: 250px;
-    height: 300px;
-    background: url(./images/open!.webp) center center;
-    background-size: cover;
-    max-width: 100%;
-    overflow: hidden;
-    color: #fafafa;
-    text-align: center;
-    border-bottom: #ff0000 solid 3px;
-    border-top: #ff0000 solid 3px;
-    border-radius: 20%;
-    -webkit-border-radius: 50px;
-    -moz-border-radius: 50px;
-    -ms-border-radius: 50px;
-    -o-border-radius: 50px;
-    box-shadow: 7px 12px 100px #ff0000;
-
 }
 
 #showcase4 {
@@ -327,7 +307,7 @@ header a:hover {
 
 #logo-bottom {
     background: url(./images/logo-clear.png) no-repeat center center;
-    background-size: contain;
+    background-size: cover;
     width: 100%;
     height: 100%;
     padding-top: 500px;
