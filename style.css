@@ -233,7 +233,7 @@ header a:hover {
 
 #showcase2 {
     min-height: 700px;
-    background: url(./images/cocktail-neon.webp);
+    background: url(./images/cocktail-neon.webp) no-repeat center;
     background-size: contain;
     min-width: 100%;
     overflow: hidden;
