@@ -217,8 +217,8 @@ header a:hover {
 
 #showcase {
     min-height: 700px;
-    background: url(./images/cocktail-back.jpeg);
-    background-size: contain;
+    background: url(./images/cocktail-back.jpeg) center;
+    background-size: cover;
     min-width: 100%;
     overflow: hidden;
     color: #fafafa;
