@@ -359,7 +359,7 @@ header a:hover {
 #box-top {
     background: url(./images/mixology-back.jpeg)no-repeat center center;
     float: right;
-    height: 700px;
+    height: 750px;
     background-size: cover;
     border-bottom: #ff0000 3px solid;
     color: #fafafa;
@@ -376,7 +376,7 @@ header a:hover {
     background: url(./images/food-back.webp) no-repeat;
     float: right;
     background-size: cover;
-    height: 1000px;
+    height: 750px;
     border-bottom: #ff0000 3px solid;
     color: #fafafa;
     border-radius: 20%;
@@ -391,7 +391,7 @@ header a:hover {
 #box-bottom {
     background: url(./images/pixel-back.webp);
     float: right;
-    height: 1000px;
+    height: 750px;
     background-size: cover;
     color: #fafafa;
     padding-top: 50px;
