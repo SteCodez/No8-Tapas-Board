@@ -306,7 +306,7 @@ The following tests were held after I adjusted the code appropriately.
 
 [Screenshot first validation run.](https://github.com/SteCodez/No8-Tapas-Board/blob/main/errors.png?raw=true)
 
-Test to be held | Results of the test | If failed, why did it fail? | Approved/issue resolved? |
+Test to be held | Results of the test | If failed, why did it fail? | Ready for deployment/issue resolved? |
    |-------------| ------------ | ------------- |------------- |
   Testing of the navigation elements of the website.  | I used the nav bar multiple times to successfully traverse the website without any issue at tall | |Yes
 Testing each of the social media links to see they succesfully take you to the advertised outlet.  | I found all of the social media links at both the head and footer in working order and was easily able to jump to any site I choose.||Yes
@@ -314,8 +314,10 @@ Testing each of the social media links to see they succesfully take you to the a
 |Testing the contact form submit action to see if the menu drops successfully.|My attemts to submit the form were not successful.|After reviewing the code I noticed that the button element was outside the form element causing the form to not connect to the button| Yes
 |Re-testing the contact form submit action | Contact form successfully submitted.||Yes
 |Testing "index.html" on the W3C Validator|Zero errors shown||Yes
+|Testing "Cocktails.html" on the W3C Validator|Zero errors shown||Yes
 |Testing "gallery.html" on the W3C Validator |Zero errors shown||Yes
 |Testing "bookings.html on the W3C Validator|Zero errors shown||Yes
+|Testing "Style.css" on the W3C Validator|Xaro errors shown||Yes
 
 - [Home page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-index.png?raw=true)
 - [Cocktail page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-cocktails.png?raw=true)
