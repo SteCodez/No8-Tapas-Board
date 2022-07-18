@@ -5,8 +5,9 @@
 3. [Layout & Design](#Layout&Design)
 4. [Technologies Used](#TechnologiesUsed)
 5. [Testing](#Testing)
-6. [Credits](#Credits)
-7. [Deployment](#Deployment)
+6. [Deployment](#Deployment)
+7. [Credits](#Credits)
+
 ---
 ---
 ## General Info
@@ -332,6 +333,19 @@ Testing each of the social media links to see they succesfully take you to the a
 - [Gallery page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-gallery.png?raw=true)
 - [Bookings page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/html-bookings.png?raw=true)
 - [Style.css page validation certificate](https://github.com/SteCodez/No8-Tapas-Board/blob/main/css-validator.png?raw=true)
+
+---
+---
+## Deployment
+---
+---
+To deploy the website to git hub pages I followed the following steps.
+
+- Connected VSstudio to github by installing GitHub desktop.
+- Sent my code to githu
+- Followed the settings to the page section
+- Deployed my page
+I had trouble figuring out exactly where to go but once I checked google I was able to navigate myself to deployment with ease.
 
 ---
 ---
