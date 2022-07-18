@@ -577,11 +577,11 @@ button :hover {
 }
 
 .img-gal {
-    width: auto;
-    height: auto;
+    width: 400px;
+    height: 400px;
     max-width: 350px;
     max-height: 450px;
-    margin: 4.5%;
+    margin: 3.5%;
     padding: 14px;
     background-size: contain;
     border-radius: 20%;
