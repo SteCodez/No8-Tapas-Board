@@ -353,6 +353,6 @@ I had trouble figuring out exactly where to go but once I checked google I was a
 ---
 ---
 
-- https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function)
-- https://www.pexels.com/
-- https://www.stockvault.net/
+- https://www.codingcommanders.com/website-builder/social-media-links.html (Code for social media hover function and neon glow)
+- https://www.pexels.com/ (Free stock images)
+- https://www.stockvault.net/ (Free stock image)
